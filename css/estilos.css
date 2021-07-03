@@ -1,0 +1,17 @@
+.chatbot {
+    height: 0;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    right: 10px;
+    border: 1px solid #05BCD4;
+    overflow-y: hidden;
+    transition: 0.5s;
+}
+
+#button1 {
+    z-index: 1;
+    transition: 0.5s;
+    margin-bottom: 0;
+}
